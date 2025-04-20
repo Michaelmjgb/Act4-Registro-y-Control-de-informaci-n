@@ -1,0 +1,25 @@
+body {
+    background-color: #0e2a47; /* fondo oscuro similar al de la imagen */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  .title {
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-size: 3em;
+    line-height: 1.2;
+  }
+  
+  .front-end {
+    color: #00b4ff; /* azul más claro para 'Front-end' */
+    display: block;
+  }
+  
+  .development {
+    color: #60c5ff; /* azul más claro para 'Development' */
+    display: block;
+  }
